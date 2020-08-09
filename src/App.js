@@ -1,26 +1,24 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './style/App.css';
+import ButtonsGrid from './components/buttons/ButtonsGrid';
+import ToggleSwitch from './components/switch/ToggleSwitch';
+import VolumeSlider from './components/switch/VolumeSlider';
+import FontAweBtns from './components/buttons/FontAweBtns';
+import GlobalState from './context/GlobalState';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => {
+	return (
+		<GlobalState>
+			<div className='container'>
+				<div id='drum-pad'>
+					<ButtonsGrid />
+					<ToggleSwitch />
+					<VolumeSlider />
+					<FontAweBtns />
+				</div>
+			</div>
+		</GlobalState>
+	);
+};
 
 export default App;
