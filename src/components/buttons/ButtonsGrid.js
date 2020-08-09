@@ -16,47 +16,47 @@ const data = [
 	{
 		id: 'Snare',
 		letter: 'Q',
-		src: 'https://www.myinstants.com/media/sounds/snare.mp3',
+		src: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3',
 	},
 	{
 		id: 'Bass 1',
 		letter: 'W',
-		src: 'https://www.myinstants.com/media/sounds/bass-drum.mp3',
+		src: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3',
 	},
 	{
 		id: 'Bongo',
 		letter: 'E',
-		src: 'http://tipiwiki.free.fr/snd/Percussion(4e)2.wav',
+		src: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3',
 	},
 	{
 		id: 'Tom Tom',
 		letter: 'A',
-		src: 'http://www.denhaku.com/r_box/sr16/sr16tom/loelectm.wav',
+		src: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3',
 	},
 	{
 		id: 'Bass 3',
 		letter: 'S',
-		src: 'http://billor.chsh.chc.edu.tw/sound/bass4.wav',
+		src: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3',
 	},
 	{
 		id: 'Shotgun',
 		letter: 'D',
-		src: 'http://david.guerrero.free.fr/Effects/ShotgunReload.wav',
+		src: 'https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3',
 	},
 	{
 		id: 'High Hat',
 		letter: 'Z',
-		src: 'http://www.denhaku.com/r_box/tr707/closed.wav',
+		src: 'https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3',
 	},
 	{
 		id: 'Drum Hit',
 		letter: 'X',
-		src: 'http://www.masterbits.de/sc_docu/sounds1/1TM00013.MP3',
+		src: 'https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3',
 	},
 	{
 		id: 'Laser',
 		letter: 'C',
-		src: 'http://www.sa-matra.net/sounds/starcontrol/Umgah-Backzip.wav',
+		src: 'https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3',
 	},
 ];
 
