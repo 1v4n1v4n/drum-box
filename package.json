@@ -2,7 +2,7 @@
 	"name": "drum-box",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://1v4n1v4n.github.io/drum-box/",
+	"homepage": "https://1v4n1v4n.github.io/drum-box",
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
 		"@testing-library/react": "^9.3.2",

@@ -92,11 +92,10 @@ body {
 		width: 15vw;
 		top: -30vh;
 		margin: 0% 8%;
-		right: 10vw;
 	}
 	#slider span {
 		font-size: 2em;
-		right: 6vw;
+		right: 6.5vw;
 	}
 	#switch {
 		top: -27vh;
