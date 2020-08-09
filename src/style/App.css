@@ -16,6 +16,7 @@ body {
 	min-width: 90vw;
 	position: relative;
 	right: 1vw;
+	height: 52vh;
 }
 
 #buttons-grid {
@@ -32,6 +33,7 @@ body {
 	min-width: 26vw;
 	min-height: 10vh;
 	margin-right: 0.5vw;
+	background-color: azure;
 }
 
 #buttons-grid button:focus {
@@ -71,6 +73,19 @@ body {
 	font-size: 1.1rem;
 }
 
+#footer {
+	color: black;
+	font-size: 1.5rem;
+	position: relative;
+	left: 32vw;
+	top: -2vh;
+}
+
+#footer:hover {
+	color: azure;
+	text-decoration: none;
+}
+
 /* Media query for PC, Laptop Screens (Some mobile versions and landscape view haven't been configured) */
 @media (min-width: 800px) {
 	* {
@@ -89,16 +104,18 @@ body {
 		font-size: 1.5em;
 	}
 	#slider {
-		width: 15vw;
-		top: -30vh;
+		width: 20vw;
+		top: -33vh;
+		left: 20vw;
 		margin: 0% 8%;
 	}
 	#slider span {
-		font-size: 2em;
-		right: 6.5vw;
+		font-size: 3em;
+		right: -4vw;
+		top: 0vh;
 	}
 	#switch {
-		top: -27vh;
+		top: -33vh;
 		left: 27vw;
 	}
 	#switch span {
@@ -109,5 +126,9 @@ body {
 		font-size: 2em;
 		bottom: 26.5vh;
 		left: 25.5vw;
+	}
+	#footer {
+		top: -18vh;
+		left: 20vw;
 	}
 }
