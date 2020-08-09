@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/drum-box/static/css/main.a3a0b94c.chunk.css",
+    "main.css": "/drum-box/static/css/main.8983bbbf.chunk.css",
     "main.js": "/drum-box/static/js/main.ca15f195.chunk.js",
     "main.js.map": "/drum-box/static/js/main.ca15f195.chunk.js.map",
     "runtime-main.js": "/drum-box/static/js/runtime-main.7d6ac63c.js",
@@ -8,16 +8,16 @@
     "static/js/2.92fc675f.chunk.js": "/drum-box/static/js/2.92fc675f.chunk.js",
     "static/js/2.92fc675f.chunk.js.map": "/drum-box/static/js/2.92fc675f.chunk.js.map",
     "index.html": "/drum-box/index.html",
-    "precache-manifest.0d95a0dc9d3547c7f53f287d5502cbf9.js": "/drum-box/precache-manifest.0d95a0dc9d3547c7f53f287d5502cbf9.js",
+    "precache-manifest.d848e010cfbe1ce6f2303ef7ebec9d37.js": "/drum-box/precache-manifest.d848e010cfbe1ce6f2303ef7ebec9d37.js",
     "service-worker.js": "/drum-box/service-worker.js",
-    "static/css/main.a3a0b94c.chunk.css.map": "/drum-box/static/css/main.a3a0b94c.chunk.css.map",
+    "static/css/main.8983bbbf.chunk.css.map": "/drum-box/static/css/main.8983bbbf.chunk.css.map",
     "static/js/2.92fc675f.chunk.js.LICENSE.txt": "/drum-box/static/js/2.92fc675f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/drum-box/static/media/cool-background.79c436b6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7d6ac63c.js",
     "static/js/2.92fc675f.chunk.js",
-    "static/css/main.a3a0b94c.chunk.css",
+    "static/css/main.8983bbbf.chunk.css",
     "static/js/main.ca15f195.chunk.js"
   ]
 }
