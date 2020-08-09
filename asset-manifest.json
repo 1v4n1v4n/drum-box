@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/drum-box/static/css/main.1216e0b8.chunk.css",
+    "main.js": "/drum-box/static/js/main.2987aed4.chunk.js",
+    "main.js.map": "/drum-box/static/js/main.2987aed4.chunk.js.map",
+    "runtime-main.js": "/drum-box/static/js/runtime-main.7d6ac63c.js",
+    "runtime-main.js.map": "/drum-box/static/js/runtime-main.7d6ac63c.js.map",
+    "static/js/2.92fc675f.chunk.js": "/drum-box/static/js/2.92fc675f.chunk.js",
+    "static/js/2.92fc675f.chunk.js.map": "/drum-box/static/js/2.92fc675f.chunk.js.map",
+    "index.html": "/drum-box/index.html",
+    "precache-manifest.60b20dfcf3c0a2328477de8dfbe4b711.js": "/drum-box/precache-manifest.60b20dfcf3c0a2328477de8dfbe4b711.js",
+    "service-worker.js": "/drum-box/service-worker.js",
+    "static/css/main.1216e0b8.chunk.css.map": "/drum-box/static/css/main.1216e0b8.chunk.css.map",
+    "static/js/2.92fc675f.chunk.js.LICENSE.txt": "/drum-box/static/js/2.92fc675f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/drum-box/static/media/cool-background.79c436b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d6ac63c.js",
+    "static/js/2.92fc675f.chunk.js",
+    "static/css/main.1216e0b8.chunk.css",
+    "static/js/main.2987aed4.chunk.js"
+  ]
+}
